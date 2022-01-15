@@ -1,0 +1,3 @@
+I added different lines of text and incoorporated different parts of the data to different lines. I also used the styleguide to find ways to design the cards. 
+Revisions made:I added different peices of information from the API. I added a title and customized it using the style guide. I also color customized the cards.
+Things you know now that you didn't the first time: I did not understand how an API worked or how to incoorporate it into a code that would display the data. It also took me some time to play around with expo yo understand how to display parts of the data that i wanted.
